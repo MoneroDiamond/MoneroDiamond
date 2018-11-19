@@ -1,0 +1,11 @@
+Monero Diamond solidity smartcotract
+
+
+
+To acquire free Monero Diamond you simply have to hold Monero at the time of the fork. 
+
+If you hold XMR at that time, you will automatically receive an equal amount of XMD at the same address (new and old address format are convertible), spendable with the same private keys, when the Monero Diamond network launches in December.
+
+ 
+
+It is also very important to make a backup of your private key and/or keep the mnemonic phrase required to recover your wallet.
